@@ -53,5 +53,13 @@
     "xmldom": "0.1.19"
   },
   "author": "Jordan Santell",
-  "license": "MPL v2.0"
+  "license": "MPL v2.0",
+  "locales": {
+    "es": {
+      "description": "Dondé esta el queso?"
+    },
+    "kr": {
+      "description": "치즈가 어디습니까?"
+    }
+  }
 }
